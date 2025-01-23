@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Imam Bahy Putra Susetyo!
 
-Welcome to my GitHub profile! I am a **fresh graduate in System Information** from **Gunadarma University**, with a passion for **web development**, **cloud computing**, and **problem-solving**. My goal is to create impactful projects while continuously learning and improving my skills.
+Welcome to my GitHub profile! I am a **fresh graduate in System Information** from **Gunadarma University**, with a passion for **web development**, and **cloud computing**. My goal is to create impactful projects while continuously learning and improving my skills.
 
 ---
 
 ## 🌟 About Me
 
 - **📍 Location:** Bekasi, Indonesia  
-- **🎓 Education:** Bachelor of Computer Science, Gunadarma University  
+- **🎓 Education:** Gunadarma University  
 - **📧 Email:** imambahyp@gmail.com  
-- **💼 LinkedIn:** [imambahyputra](https://www.linkedin.com/in/imambahyputra)  
-- **💻 GitHub:** [imambahy](https://github.com/imambahy)  
+- **💼 LinkedIn:** [imambahyputra](https://www.linkedin.com/in/imambahyputra)
+- **📘 Medium:** [imambahyp}(https://medium.com/@imambahyp)
 
 ---
 
@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I am a **fresh graduate in System Information** fr
 
 ### [Bangkit Mental Health Chatbot](https://github.com/zaidannoor/Bangkit-capstone?tab=readme-ov-file)
 - **Role:** Contributor  
-- **Description:** Developed and contributed to an API for a mental health chatbot (*SMILE*) as part of the Bangkit Academy Final Task.  
+- **Description:** Learning how to make an API for a mental health chatbot (*SMILE*) as part of the Bangkit Academy Final Task.  
 - **Technologies:** Node.js, GCP  
 - **Goal:** To provide users with a chatbot capable of assisting with mental health management.  
 
