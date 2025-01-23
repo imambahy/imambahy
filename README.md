@@ -76,12 +76,6 @@ Welcome to my GitHub profile! I am a **fresh graduate in System Information** fr
 
 ---
 
-## 🎨 Visuals
-
-![Header](https://raw.githubusercontent.com/username/repo-name/main/path-to-banner.png)  
-
----
-
 ## 🔍 Let's Connect!
 
 Feel free to connect with me for collaborations, opportunities, or just to say hi! 😊  
