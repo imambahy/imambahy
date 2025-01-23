@@ -62,8 +62,6 @@ Welcome to my GitHub profile! I am a **fresh graduate in System Information** fr
 ---
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imambahy&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imambahy&layout=compact&theme=radical)
 
 ---
