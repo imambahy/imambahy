@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I am a **fresh graduate in System Information** fr
 ### [Bangkit Mental Health Chatbot](https://github.com/zaidannoor/Bangkit-capstone?tab=readme-ov-file)
 - **Role:** Contributor  
 - **Description:** Developed and contributed to an API for a mental health chatbot (*SMILE*) as part of the Bangkit Academy Final Task.  
-- **Technologies:** PHP, MySQL  
+- **Technologies:** Node.js, GCP  
 - **Goal:** To provide users with a chatbot capable of assisting with mental health management.  
 
 ### [Kicksolution - Shoe Care Services Website](https://github.com/imambahy/kicksolution)
