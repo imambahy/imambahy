@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a **fresh graduate in System Information** fr
 - **🎓 Education:** Gunadarma University  
 - **📧 Email:** imambahyp@gmail.com  
 - **💼 LinkedIn:** [imambahyputra](https://www.linkedin.com/in/imambahyputra)
-- **📘 Medium:** [imambahyp}(https://medium.com/@imambahyp)
+- **📘 Medium:** [imambahyp](https://medium.com/@imambahyp)
 
 ---
 
